@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+.new{ 
+    height: 250px;
+    width: 100%;
+    background-color: darkslategray;
+}
+.new a{
+     position: relative;
+    left: 30%;
+    top: 90px;
+    font-size: 40px;
+    color: white;
+     font-family: 'Sacramento', cursive;    
+}
+.container-fluid{
+    background-color: lightslategrey;  
+}
+.py-2{
+    color: black;
+}
+.table{
+    background-color: lightslategray;  
+}
